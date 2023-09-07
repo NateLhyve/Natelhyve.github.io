@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Melancholy",
           artist: "xXtha",
-          cover: "https://github.com/NateLhyve/Natelhyve.github.io/blob/de0d6d403cf1ef7f364364bd76a86ca0c37c5ce4/nightmare-music-player/img/1.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/1.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/1.mp4",
           url: "https://open.spotify.com/intl-pt/track/5lekOdK7bWl5AirX4dvF24?si=63a9371b60174139",
           favorited: false
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Hidden In The Sand",
           artist: "Tally Hall",
-          cover: "Natelhyve.github.io/nightmare-music-player/img/2.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/2.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/2.mp4",
           url: "https://open.spotify.com/intl-pt/track/0RjG5JmdOWXAR68dGlKBA5?si=9ef5b4450cbb415d",
           favorited: false
@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Look Who's Inside Again",
           artist: "Bo Burnham",
-          cover: "Natelhyve.github.io/nightmare-music-player/img/3.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/3.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/3.mp4",
           url: "https://open.spotify.com/intl-pt/track/0lZZ8pibk6Zu3M9hTthk1a?si=670a53bcb697436f",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Devil Town",
           artist: "Cavetown",
-          cover: "Natelhyve.github.io/nightmare-music-player/img/4.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/4.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/4.mp4",
           url: "https://open.spotify.com/intl-pt/track/58Bb5UzlthEqCwsbo8Jgi1?si=5b76432dce3e4641",
           favorited: false
@@ -44,7 +44,7 @@ new Vue({
         {
           name: "I'd Rather Sleep",
           artist: "Kero Kero Bonito",
-          cover: "Natelhyve.github.io/nightmare-music-player/img/5.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/5.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/5.mp4",
           url: "https://open.spotify.com/intl-pt/track/614cx8ZtQJX7jRIBnUhPA7?si=76f8649bebfc4967",
           favorited: false
@@ -52,7 +52,7 @@ new Vue({
         {
           name: "Ralsei's Lullaby",
           artist: "Toby Fox & maybemochas",
-          cover: "Natelhyve.github.io/nightmare-music-player/img/6.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/6.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/6.mp4",
           url: "https://youtu.be/77Qrdyw48xw?si=tctwhEY8ey-dSOo-",
           favorited: false
@@ -60,7 +60,7 @@ new Vue({
         {
           name: "Everything Stays [Music Box Cover]",
           artist: "Rebecca Sugar & erinmusicbox",
-          cover: "Natelhyve.github.io/nightmare-music-player/img/7.jpg",
+          cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/7.jpg",
           source: "Natelhyve.github.io/nightmare-music-player/mp3/7.mp4",
           url: "https://open.spotify.com/intl-pt/track/614cx8ZtQJX7jRIBnUhPA7?si=76f8649bebfc4967",
           favorited: false
