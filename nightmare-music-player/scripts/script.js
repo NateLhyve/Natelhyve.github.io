@@ -59,10 +59,10 @@ new Vue({
         },
         {
           name: "Everything Stays [Music Box Cover]",
-          artist: "Rebecca Sugar & erinmusicbox",
+          artist: "Rebecca Sugar & Musicbox cover",
           cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/7.jpg",
           source: "https://cdn.discordapp.com/attachments/1108066337839915088/1149380260115267614/7.mp3",
-          url: "https://open.spotify.com/intl-pt/track/614cx8ZtQJX7jRIBnUhPA7?si=76f8649bebfc4967",
+          url: "https://youtu.be/1Hlz9scNx_Q?si=w5h-Be8sY1sxnnzl",
           favorited: false
         }
       ],
