@@ -13,7 +13,7 @@ new Vue({
           name: "Melancholy",
           artist: "xXtha",
           cover: "https://raw.githubusercontent.com/NateLhyve/Natelhyve.github.io/main/nightmare-music-player/img/1.jpg",
-          source: "https://cdn.discordapp.com/attachments/1108066337839915088/1149380262694748190/1.mp3",
+          source: "https://github.com/NateLhyve/Natelhyve.github.io/raw/main/nightmare-music-player/mp3/1.mp3",
           url: "https://open.spotify.com/intl-pt/track/5lekOdK7bWl5AirX4dvF24?si=63a9371b60174139",
           favorited: false
         },
